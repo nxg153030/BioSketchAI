@@ -1,0 +1,1 @@
+# Converts JSON representation to an SVG string

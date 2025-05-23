@@ -1,0 +1,1 @@
+# Orchestrates the main workflow (text -> JSON -> SVG)
